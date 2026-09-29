@@ -4,5 +4,5 @@ outputs:
   patch:
     description: 'The patch file, if needed'
 runs:
-  using: 'node20'
+  using: 'node24'
   main: 'index.js'
